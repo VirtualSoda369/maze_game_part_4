@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Maze game part 4 (Final)
+----
 
-You can use the [editor on GitHub](https://github.com/VirtualSoda369/maze_game_part_4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![text](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/portada_final.jpg?raw=true "title_img")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The painting of this post is called Scottish Landscape
+### and was painted by Robert S. Duncanson in 1871, oil on canvas, 75.4 x 127 cm
 
-### Markdown
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_1_post.jpg?raw=true "img_1")
+----
 
-# Header 1
-## Header 2
-### Header 3
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_2_post.jpg?raw=true "img_2")
+----
 
-- Bulleted
-- List
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_3_post.jpg?raw=true "img_3")
+----
 
-1. Numbered
-2. List
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_4_post.jpg?raw=true "img_4")
+----
 
-**Bold** and _Italic_ and `Code` text
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_5_post.jpg?raw=true "img_5")
+----
 
-[Link](url) and ![Image](src)
-```
+![img](https://github.com/VirtualSoda369/maze_game_part_4/blob/main/post/foto_6_post.jpg?raw=true "img_6")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VirtualSoda369/maze_game_part_4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
